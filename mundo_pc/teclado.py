@@ -1,5 +1,6 @@
 from mundo_pc.dispositivo_entrada import DispositivoEntrada
 
+
 class Teclado(DispositivoEntrada):
 
     contador_teclados = 0
@@ -10,10 +11,10 @@ class Teclado(DispositivoEntrada):
         super().__init__(marca, tipo_entrada)
 
     def __str__(self):
-            return f'Id: {self._id_teclado}, Marca: {self._marca}, Tipo Entrada: {self._tipo_entrada}'
+        return f'Id: {self._id_teclado}, Marca: {self._marca}, Tipo Entrada: {self._tipo_entrada}'
 
 if __name__ == '__main__':
     teclado1 = Teclado('HP', 'USB')
     print(teclado1)
-    teclado2 = Teclado('Gamer', 'Bluetooh')
+    teclado2 = Teclado('Gamer', 'Bluetooth')
     print(teclado2)

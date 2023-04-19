@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aefa198e-399c-4f5a-b509-8d5ae8705220" name="Changes" comment="Update functions in Python">
+      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/ManejoArchivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/archivos_con_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/copia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/dominio/Pelicula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/dominio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/servicio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/servicio/catalogo_peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_catalogo_peliculas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UniversityPython.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectura_De_Archivos/manejo_archivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lectura_De_Archivos/manejo_archivos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lectura_De_Archivos/leer_archivo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2O1uIG9hiwizJZGEIreabwlIG0u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/catalogo_pelicula" />
+      <recent name="$PROJECT_DIR$/Lectura_De_Archivos" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Sentencias" />
+      <recent name="$PROJECT_DIR$/OperatorPython" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_catalogo_peliculas">
+    <configuration name="Excepciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ManejoDeErrores" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ManejoDeErrores/Excepciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="archivos_con_with" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectura_De_Archivos/archivos_con_with.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leer_archivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectura_De_Archivos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectura_De_Archivos/leer_archivo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectura_De_Archivos/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manejo_archivos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lectura_De_Archivos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectura_De_Archivos/manejo_archivos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_catalogo_peliculas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UniversityPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_catalogo_peliculas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_catalogo_peliculas" />
+        <item itemvalue="Python.manejo_archivos" />
+        <item itemvalue="Python.archivos_con_with" />
+        <item itemvalue="Python.leer_archivo" />
+        <item itemvalue="Python.Excepciones" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aefa198e-399c-4f5a-b509-8d5ae8705220" name="Changes" comment="" />
+      <created>1680740329184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680740329184</updated>
+      <workItem from="1680740332208" duration="4759000" />
+      <workItem from="1680793149935" duration="12204000" />
+      <workItem from="1680886804288" duration="5196000" />
+      <workItem from="1680982516132" duration="14000" />
+      <workItem from="1680982536585" duration="6856000" />
+      <workItem from="1681075729935" duration="7473000" />
+      <workItem from="1681172381413" duration="8712000" />
+      <workItem from="1681259649072" duration="9194000" />
+      <workItem from="1681345308920" duration="8053000" />
+      <workItem from="1681432631562" duration="8212000" />
+      <workItem from="1681778557299" duration="5380000" />
+      <workItem from="1681864818391" duration="967000" />
+      <workItem from="1681865834569" duration="4682000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update functions in Python">
+      <created>1681083190401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681083190401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update functions in Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update functions in Python" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Poliformismo/test_poliformismo.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UniversityPython$PruebaPersona.coverage" NAME="PruebaPersona Coverage Results" MODIFIED="1681180925568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulamiento" />
+    <SUITE FILE_PATH="coverage/UniversityPython$texto.coverage" NAME="texto Coverage Results" MODIFIED="1680888634083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentencias" />
+    <SUITE FILE_PATH="coverage/UniversityPython$main.coverage" NAME="main Coverage Results" MODIFIED="1680799933468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Temperaturas.coverage" NAME="Temperaturas Coverage Results" MODIFIED="1681083143541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$MiClase.coverage" NAME="MiClase Coverage Results" MODIFIED="1681347976489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Variables_Clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$manejo_archivos.coverage" NAME="manejo_archivos Coverage Results" MODIFIED="1681867332199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectura_De_Archivos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Rango.coverage" NAME="Rango Coverage Results" MODIFIED="1680803402141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorPython" />
+    <SUITE FILE_PATH="coverage/UniversityPython$for.coverage" NAME="for Coverage Results" MODIFIED="1680983989446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ciclos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$numeros_descendente.coverage" NAME="numeros_descendente Coverage Results" MODIFIED="1680983694489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ciclos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$def.coverage" NAME="def Coverage Results" MODIFIED="1681076398544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Llave_valor.coverage" NAME="Llave_valor Coverage Results" MODIFIED="1681079810839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Persona.coverage" NAME="Persona Coverage Results" MODIFIED="1681175800274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$lista_elementos.coverage" NAME="lista_elementos Coverage Results" MODIFIED="1681080359684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$args.coverage" NAME="args Coverage Results" MODIFIED="1681078417608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$computadora.coverage" NAME="computadora Coverage Results" MODIFIED="1681778946691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo_pc" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Set_python.coverage" NAME="Set_python Coverage Results" MODIFIED="1680988501549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Colecciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Calificaciones.coverage" NAME="Calificaciones Coverage Results" MODIFIED="1680891912335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentencias" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Calculadora_impuestos.coverage" NAME="Calculadora_impuestos Coverage Results" MODIFIED="1681082485315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$practica1.coverage" NAME="Persona Coverage Results" MODIFIED="1681180692147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulamiento" />
+    <SUITE FILE_PATH="coverage/UniversityPython$test_poliformismo.coverage" NAME="test_poliformismo Coverage Results" MODIFIED="1681435578168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Poliformismo" />
+    <SUITE FILE_PATH="coverage/UniversityPython$multiplicate.coverage" NAME="multiplicate Coverage Results" MODIFIED="1681079142100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$test_catalogo_peliculas.coverage" NAME="test_catalogo_peliculas Coverage Results" MODIFIED="1681870319178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UniversityPython$While.coverage" NAME="While Coverage Results" MODIFIED="1680982861557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ciclos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Operadores.coverage" NAME="Operadores Coverage Results" MODIFIED="1680802644921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorPython" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Orden.coverage" NAME="Orden Coverage Results" MODIFIED="1681352725251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Diseño_clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Cubo.coverage" NAME="Cubo Coverage Results" MODIFIED="1681177840895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$break.coverage" NAME="break Coverage Results" MODIFIED="1680984270875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ciclos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$test_mundo_pc.coverage" NAME="test_mundo_pc Coverage Results" MODIFIED="1681441346937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo_pc" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Mayor_que.coverage" NAME="Mayor_que Coverage Results" MODIFIED="1680806759336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorPython" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Diccionarios.coverage" NAME="Diccionarios Coverage Results" MODIFIED="1680988912216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Colecciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Rectangulo.coverage" NAME="Rectangulo Coverage Results" MODIFIED="1681177250430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$raton.coverage" NAME="raton Coverage Results" MODIFIED="1681438488977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo_pc" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Edad.coverage" NAME="Edad Coverage Results" MODIFIED="1680890722470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentencias" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Estacion.coverage" NAME="Estacion Coverage Results" MODIFIED="1680889991608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentencias" />
+    <SUITE FILE_PATH="coverage/UniversityPython$recursivas_funciones.coverage" NAME="recursivas_funciones Coverage Results" MODIFIED="1681081624854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$funciones_recursivas.coverage" NAME="funciones_recursivas Coverage Results" MODIFIED="1681080696663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$continue.coverage" NAME="continue Coverage Results" MODIFIED="1680984526135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ciclos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Listas.coverage" NAME="Listas Coverage Results" MODIFIED="1680985156622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Colecciones" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Excepciones.coverage" NAME="Excepciones Coverage Results" MODIFIED="1681784247002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ManejoDeErrores" />
+    <SUITE FILE_PATH="coverage/UniversityPython$archivos_con_with.coverage" NAME="archivos_con_with Coverage Results" MODIFIED="1681867205654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UniversityPython$test_ordenes.coverage" NAME="test_ordenes Coverage Results" MODIFIED="1681352710686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Diseño_clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$else.coverage" NAME="else Coverage Results" MODIFIED="1680888153540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sentencias/If" />
+    <SUITE FILE_PATH="coverage/UniversityPython$leer_archivo.coverage" NAME="leer_archivo Coverage Results" MODIFIED="1681866324118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lectura_De_Archivos" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Aritmetica.coverage" NAME="Aritmetica Coverage Results" MODIFIED="1681176819737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Producto.coverage" NAME="Producto Coverage Results" MODIFIED="1681352720015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Diseño_clases" />
+    <SUITE FILE_PATH="coverage/UniversityPython$RangosDeEdad.coverage" NAME="RangosDeEdad Coverage Results" MODIFIED="1680806410026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorPython" />
+    <SUITE FILE_PATH="coverage/UniversityPython$ClientePersona.coverage" NAME="ClientePersona Coverage Results" MODIFIED="1681263796217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/herencia" />
+    <SUITE FILE_PATH="coverage/UniversityPython$Libros_Ejercicio.coverage" NAME="Libros_Ejercicio Coverage Results" MODIFIED="1680807673712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OperatorPython" />
+    <SUITE FILE_PATH="coverage/UniversityPython$test_figura_geometrica.coverage" NAME="test_figura_geometrica Coverage Results" MODIFIED="1681346658717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Herencia_multiple" />
+  </component>
+</project>

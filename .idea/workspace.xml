@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aefa198e-399c-4f5a-b509-8d5ae8705220" name="Changes" comment="Update functions in Python">
-      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/ManejoArchivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/archivos_con_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/copia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectura_De_Archivos/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/dominio/Pelicula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/dominio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/servicio/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo_pelicula/servicio/catalogo_peliculas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_catalogo_peliculas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UniversityPython.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectura_De_Archivos/manejo_archivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lectura_De_Archivos/manejo_archivos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lectura_De_Archivos/leer_archivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +217,7 @@
       <workItem from="1681432631562" duration="8212000" />
       <workItem from="1681778557299" duration="5380000" />
       <workItem from="1681864818391" duration="967000" />
-      <workItem from="1681865834569" duration="4682000" />
+      <workItem from="1681865834569" duration="5517000" />
     </task>
     <task id="LOCAL-00001" summary="Update functions in Python">
       <created>1681083190401</created>
